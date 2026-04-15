@@ -1,0 +1,86 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Mini Spotify Clone</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<div class="front-container">
+			
+			<div class="track-container" id="track-container">
+				<label class="track-title">
+					Tracks
+					<div class="track-top-button-holder">
+						<button class="track-audio-button" id="shuffle-button">
+							<img src="png/shuffle.png" width="20" height="20">
+						</button>
+						<button class="track-audio-button" id="loop-button">
+							<img src="png/loop.png" width="20" height="20">
+						</button>
+					</div>
+				
+				</label>
+				<div class="track-scroll-container" id="track-scroller"></div>
+			</div>
+			
+			<nav class="audio-holder">
+				<div class="audio-holder-green-grad"></div>
+				<audio id="player"></audio>
+				<div class="audio-holder-music-title" id="currentPlayingTitle">
+					<button class="audio-button" id="audio-list-button">
+						<img src="png/list.png" class="button-icon-grey" width="20" height="20">
+					</button>
+					<div class="tittle-text-holder">
+						
+						<div class="tittle-text" id="tittle-text">
+							
+						</div>
+					</div>
+					<div class="audio-holder-button-holder">
+						<button class="audio-button" id="audio-previous">
+							<img src="png/back.png" class="button-icon-grey" width="20" height="20">
+						</button>
+						<button class="audio-button" id="audio-pause-play">
+							<img src="png/play-button.png" class="button-icon-grey" width="20" height="20">
+						</button>
+						<button class="audio-button" id="audio-next">
+							<img src="png/next.png" class="button-icon-grey" width="20" height="20">
+						</button>
+						
+					</div>
+				</div>
+				<center>
+					<input type="range" min="0" max="0" step="1" class="audio-progress" id="audio-progress" disabled>
+					<div class="time-holder">
+						<label class="timer" id="current-timer">0:00</label>
+						<label class="timer">/</label>
+						<label claas="timer" id="duration-timer">0:00</label>
+					</div>
+				</center>
+				<div>
+					
+				</div>
+			</nav>
+			
+			<div class="sidebar">
+				<h2>My Spotify</h2>
+				<ul id="albumList"></ul>
+			</div>
+		</div>
+		
+		<div class="scroll-container">
+			<div class="albums" id="albums">
+				
+			</div>
+		</div>
+		<div class="main" id="">
+			
+		</div>
+		
+		<script src="script.js"></script>
+	</body>
+</html>
+

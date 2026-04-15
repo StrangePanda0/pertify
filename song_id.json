@@ -1,27 +1,31 @@
 [
+	{"name": "Beatiful In White", "author": "Westlife", "file": "songs/l_5.mp3"},
+	{"name": "My Love", "author": "Westlife", "file": "songs/l_4.mp3"},
+	{"name": "Oh Cecilia", "author": "The Vamps", "file": "songs/l_3.mp3"},
 	{"name": "Rewrite The Stars",		"author": "James Arthur and Anne Marieeeeef","file": "songs/ls_1.mp3" },
 	{"name": "You'll Be Safe Here",	"author": "Rico Blanco",				"file": "songs/ls_2.mp3" },
-	{"name": "Oh Cecilia", "author": "The Vamps", "file": "songs/l_3.mp3"},
-	{"name": "My Love", "author": "Westlife", "file": "songs/l_4.mp3"},
-	{"name": "Beatiful In White", "author": "Westlife", "file": "songs/l_5.mp3"},
-	{"name": "Shape Of You", "author": "Ed Sheeran", "file": "songs/p_1.mp3"},
+	
 	{"name": "Bad Guy", "author": "Billie Eilis", "file": "songs/p_2.mp3"},
-	{"name": "Uptown Funk", "author": "Mark Ronson", "file": "songs/p_3.mp3"},
-	{"name": "Flowers", "author": "Mily Cyrus", "file": "songs/p_4.mp3"},
 	{"name": "Blank Space", "author": "Taylor Swift", "file": "songs/p_5.mp3"},
+	{"name": "Flowers", "author": "Mily Cyrus", "file": "songs/p_4.mp3"},
+	{"name": "Shape Of You", "author": "Ed Sheeran", "file": "songs/p_1.mp3"},
+	{"name": "Uptown Funk", "author": "Mark Ronson", "file": "songs/p_3.mp3"},
+	
+	{"name": "IDFC", "author": "Blackbear", "file": "songs/c_4.mp3"},
+	{"name": "Space Song", "author": "Beach House", "file": "songs/c_3.mp3"},
+	{"name": "Telepatía", "author": "Kali Uchis", "file": "songs/c_5.mp3"},
 	{"name": "Until I Found You", "author": "Stephen Sanchez", "file": "songs/c_1.mp3"} ,
 	{"name": "Water Fountain", "author": "Alec Benjamin", "file": "songs/c_2.mp3"},
-	{"name": "Space Song", "author": "Beach House", "file": "songs/c_3.mp3"},
-	{"name": "IDFC", "author": "Blackbear", "file": "songs/c_4.mp3"},
-	{"name": "Telepatía", "author": "Kali Uchis", "file": "songs/c_5.mp3"},
+	
 	{"name": "Back In Black", "author": "AC/DC", "file": "songs/r_1.mp3"},
-	{"name": "Hotel California", "author": "Eagles", "file": "songs/r_2.mp3"},
-	{"name": "Smells Like Teen Spirit", "author": "Nirvana", "file": "songs/r_3.mp3"},
 	{"name": "Bohemian Rhapsody", "author": "Queen", "file": "songs/r_4.mp3"},
 	{"name": "Hey Jude", "author": "The Beatles", "file": "songs/r_5.mp3"},
-	{"name": "I Will Always Love You", "author": "Dolly Parton", "file": "songs/co_1.mp3"},
-	{"name": "Pink Skies", "author": "Zach Bryan", "file": "songs/co_2.mp3"},
-	{"name": "I Had Some Help", "author": "Post Malone ft. Morgan Wallen", "file": "songs/co_3.mp3"},
+	{"name": "Hotel California", "author": "Eagles", "file": "songs/r_2.mp3"},
+	{"name": "Smells Like Teen Spirit", "author": "Nirvana", "file": "songs/r_3.mp3"},
+	
 	{"name": "A Bar Song (Tipsy)", "author": "Shaboozey", "file": "songs/co_4.mp3"},
-	{"name": "I Remember Everything", "author": "Zach Bryan ft. Kacey Musgraves", "file": "songs/co_5.mp3"}
+	{"name": "I Had Some Help", "author": "Post Malone ft. Morgan Wallen", "file": "songs/co_3.mp3"},
+	{"name": "I Will Always Love You", "author": "Dolly Parton", "file": "songs/co_1.mp3"},
+	{"name": "I Remember Everything", "author": "Zach Bryan ft. Kacey Musgraves", "file": "songs/co_5.mp3"},
+	{"name": "Pink Skies", "author": "Zach Bryan", "file": "songs/co_2.mp3"}
 ]
